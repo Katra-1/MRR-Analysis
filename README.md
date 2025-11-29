@@ -42,12 +42,12 @@ Result
 
 An interactive Tableau dashboard for full MRR analysis that:
 
-•	shows monthly dynamics of all key metrics
-•	displays the structure of MRR (new users, churn, expansion, contraction)
-•	helps quickly identify the drivers of revenue growth or decline
-•	provides segmentation analysis by user age and language
+	•	shows monthly dynamics of all key metrics
+	•	displays the structure of MRR (new users, churn, expansion, contraction)
+	•	helps quickly identify the drivers of revenue growth or decline
+	•	provides segmentation analysis by user age and language
 
-	Tools
+Tools
 SQL, Tableau
 
 Links
