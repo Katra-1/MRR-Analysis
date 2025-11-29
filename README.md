@@ -21,7 +21,7 @@ Data
 
 Work Done
 
-Built an SQL pipeline consisting of 4 CTEs:
+Transform raw transaction data into a structured dataset:
 
 	•	monthly revenue aggregation per user
 	•	detection of new paid users (New MRR)
@@ -34,6 +34,7 @@ Calculated key product and financial metrics:
 	•	LT (lifetime)
 	•	LTV
 	•	NRR
+
 Built an interactive Tableau dashboard with filters:
 	•	user language
 	•	user age
