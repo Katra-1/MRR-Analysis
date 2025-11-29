@@ -55,4 +55,4 @@ Links
 - [Tableau Dashboard](https://public.tableau.com/views/GamesMRRAnalysis/MRRAnalysisbyMonths)
 - [SQL Code](./sql_script)
 
-![Dashboard Preview](./dashboard/mrr_dashboard.png)
+![Dashboard Preview](./dashboard.png)
