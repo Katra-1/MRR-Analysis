@@ -27,9 +27,9 @@ The goal is to provide product managers and analysts with a tool for monitoring 
 
 Data
 
-•	games_payments — user transactions (payment date, revenue_amount_usd)
+•	games_payments — [User Transactions](./game_payments.csv)
 
-•	games_paid_users — user attributes (user_id, age, language)
+•	games_paid_users — [User Attributes](./games_paid_users.csv))
 
 Work Done
 
