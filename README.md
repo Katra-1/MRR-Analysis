@@ -75,7 +75,7 @@ Tools
 SQL, Tableau
 
 Links
-- [Tableau Dashboard](https://public.tableau.com/views/GamesMRRAnalysis/MRRAnalysisbyMonths)
+- [Tableau Dashboard] (https://public.tableau.com/views/GamesMRRAnalysis/MRRDynamicsRetentionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [SQL Code](./sql_script)
 
 ![Dashboard Preview](./png_dashboard.png)
